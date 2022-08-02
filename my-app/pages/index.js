@@ -311,8 +311,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>LW3Punks</title>
-        <meta name="description" content="LW3Punks-Dapp" />
+        <title>Crypto-Bet</title>
+        <meta name="description" content="Pranav's Crypto-Bet" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
